@@ -98,7 +98,7 @@
       "isEnabled": true,
       "name": "🇬🇧",
       "pattern": "(?i)(?<![^\\s\\[(_\\-.,])(english|eng)(?![ .\\-_]?sub(title)?s?)(?=[\\s\\)\\]_.\\-,]|$)",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#00000000",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
@@ -111,7 +111,7 @@
       "isEnabled": true,
       "name": "🇯🇵",
       "pattern": "(?i)(?<![^\\s\\[(_\\-.,])(japanese|jap|jpn)(?![ .\\-_]?sub(title)?s?)(?=[\\s\\)\\]_.\\-,]|$)|[぀-ゟ゠-ヿ]{3,}",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#00000000",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
@@ -124,7 +124,7 @@
       "isEnabled": true,
       "name": "🇮🇳",
       "pattern": "(?i)(?<![^\\s\\[(_\\-.,])(hindi|hin)(?![ .\\-_]?sub(title)?s?)(?=[\\s\\)\\]_.\\-,]|$)|[ऀ-ॿ]{3,}",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#00000000",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
